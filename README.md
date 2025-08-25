@@ -2,9 +2,9 @@
 
 # IMPLEMENTATION OF SYMBOL TABLE
 
-# Register Number : 212223100040
+# Register Number : 212223040158
 
-#Name : Nishanth J
+# Name : Purajith S
 
 # Date :25|08|2025
 
